@@ -2,6 +2,6 @@
 Breast Cancer RNAseq analysis pipeline
 
 
-##Pipeline on Whole dataset
+## Pipeline on Whole dataset
 
 This part of the project aims to utilize MLP and AE approaches to predict the final pathology of our cohort, based on bulkRNAseq transcriptomic data
