@@ -19,3 +19,4 @@ This part of the project aims to utilize MLP and AE approaches to predict the fi
     This script has a custom network class that constructs, trains, and employs the autoencoder and the MLP in order to do the predictions. Its fully modular and can be configured easily. 
 
 
+
